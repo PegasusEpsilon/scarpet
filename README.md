@@ -1,3 +1,5 @@
+# DUE TO RECENT GITHUB POLICY CHANGES ALL MY PROJECTS HAVE BEEN MOVED TO [GITLAB](https://gitlab.com/pegasusepsilon)
+
 # scarpet
 Public Repository of scarpet programs for Minecraft.
 Check https://gnembon.github.io/scarpet/ for full language docs.
